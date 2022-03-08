@@ -8,9 +8,9 @@
  <p><img src="/project_proposal/quick_options.jpg" alt="Home Page" width="min-content" height="min-content"/></p>
  <h3>Placing First Order</h3>
  <p><img src="/project_proposal/place_order.jpg" alt="First Order" width="min-content" height="min-content"/></p>
- <h3>Reviewing First Order</h3>
+ <h3>Reviewing First Order; Utilizing Python Function for Order Calculations</h3>
  <p><img src="/project_proposal/current_order1.jpg" alt="First Order" width="min-content" height="min-content"/></p>
  <h3>Placing Second Order</h3>
  <p><img src="/project_proposal/place_order2.jpg" alt="Second Order" width="min-content" height="min-content"/></p>
- <h3>Reviewing Both First and Second Orders</h3>
+ <h3>Reviewing Both First and Second Orders; Utilizing Python Function for Order Calculations</h3>
  <p><img src="/project_proposal/current_order2.jpg" alt="First Order" width="min-content" height="min-content"/></p>
