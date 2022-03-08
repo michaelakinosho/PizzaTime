@@ -6,3 +6,5 @@
  <p><img src="/project_proposal/registration.jpg" alt="Customer's Signup Page" width="min-content" height="min-content"/></p>
  <h3>Home/Quick Options</h3>
  <p><img src="/project_proposal/quick_options.jpg" alt="Home Page" width="min-content" height="min-content"/></p>
+ <h3>Placing First Order</h3>
+ <p><img src="/project_proposal/quick_options.jpg" alt="First Order" width="min-content" height="min-content"/></p>
